@@ -1,2 +1,2 @@
 # aidl-server-client
-Git fro AIDL App
+Git for AIDL App
